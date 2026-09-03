@@ -53,7 +53,7 @@ phone = "(719)639-8029"                          # e.g. "(510) 555-0123" — or 
 
 # Paste any social media links here, one per line between the brackets.
 # The right icon appears automatically.
-socials = 
+socials = [
   "https://www.instagram.com/siyupan_n",
   "https://www.linkedin.com/in/siyu-pan-ypsy078",
   "https://bsky.app/profile/example.bsky.social",
