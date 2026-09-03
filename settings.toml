@@ -74,9 +74,10 @@ favicon = ""                        # Tiny browser-tab icon. Empty = made for yo
 # A blank line starts a new paragraph.
 
 bio = """
-Siyu Pan is a journalism student at UC Berkeley with an international background from Shanghai, China.
-Pan currently covers public safety and local news for Emeryville Today, while freelancing on immigration and cultural features.
-Through her reporting, Pan hopes to carry forward the subtle power of the written word, telling stories with curiosity, sensitivity and care.
+Siyu Pan is a journalism student at UC Berkeley with an international background from Shanghai, China. She recently graduated from UC Irvine, where she studied Literary Journalism and Film and Media Studies. Upon graduation, Pan received the School of Humanities Undergraduate Award in Literary Journalism and the Neil Bibler Journalism Award for her work in journalism.
+
+Pan currently covers public safety and local news for Emeryville Today. Beyond local reporting, she freelances on immigration and cultural features, with a particular interest in stories that connect individual experiences to broader communities and institutions.Through her reporting, Pan hopes to carry forward the subtle power of the written word — telling stories with curiosity, sensitivity and care.
+
 """
 
 # Optional extra line at the bottom of every page.
