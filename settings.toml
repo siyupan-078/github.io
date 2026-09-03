@@ -15,7 +15,7 @@
 
 # ── Who you are ─────────────────────────────────────────────
 
-name = "Juan Pérez"                # ← Required. Everything else is optional.
+name = "Siyu Pan"                # ← Required. Everything else is optional.
 
 # A short phrase describing you. Shows up big at the top of most templates.
 tagline = "Multimedia journalist telling the East Bay's stories"
@@ -29,8 +29,8 @@ location = "Berkeley, California"
 # that read the web, can tell who you are and where you work.
 # Fill them in if they apply to you. If not, leave them empty.
 
-job_title = "Multimedia Journalist"     # Your role, like "Reporter" or "Photojournalist"
-employer = "Richmond Confidential"      # Where you work, intern, or freelance most
+job_title = "Public Safety Journalist"     # Your role, like "Reporter" or "Photojournalist"
+employer = "Emeryville Today"      # Where you work, intern, or freelance most
 
 # ── The look of your site ───────────────────────────────────
 #
@@ -44,18 +44,18 @@ employer = "Richmond Confidential"      # Where you work, intern, or freelance m
 #   "signal"     – huge bold headline, then a bright yellow band
 #   "harbor"     – deep teal with a portrait sidebar and serif type
 
-template = "marquee"
+template = "editorial"
 
 # ── How people reach you ────────────────────────────────────
 
-email = "juan.perez@example.com"
-phone = ""                          # e.g. "(510) 555-0123" — or leave empty
+email = "siyu.pan@berkeley.edu"
+phone = "(719)639-8029"                          # e.g. "(510) 555-0123" — or leave empty
 
 # Paste any social media links here, one per line between the brackets.
 # The right icon appears automatically.
-socials = [
-  "https://www.instagram.com/example",
-  "https://www.linkedin.com/in/example",
+socials = 
+  "https://www.instagram.com/siyupan_n",
+  "https://www.linkedin.com/in/siyu-pan-ypsy078",
   "https://bsky.app/profile/example.bsky.social",
 ]
 
