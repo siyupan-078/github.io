@@ -119,14 +119,14 @@ description = "Photo assignment from UC Berkeley Journalism School."
 date = "September 2026"
 category = "Photojournalism"
 photos = [
-  "media/repeating-pattern.jpg | Repeating Pattern",
+  "media/framing.jpg | Framing",   
   "media/perspective.jpg | Perspective",
   "media/rule-of-thirds.jpg | Rule of Thirds",
+  "media/repeating-pattern.jpg | Repeating Pattern",
   "media/symmetry.jpg | Symmetry",
-  "media/framing.jpg | Framing",   
-  "media/foreground-background.jpg | Foreground-background",
   "media/portrait.jpg | Portrait",
   "media/moment.jpg | Moment",
+  "media/foreground-background.jpg | Foreground-background",
 ]
 # ── An audio story stored on your site ──────────────────────
 #
