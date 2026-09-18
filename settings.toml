@@ -102,40 +102,23 @@ footer = ""
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
-title = "City Council approves protected bike lanes for Telegraph Avenue"
-description = "After a decade of debate and three hours of public comment, Berkeley's City Council voted 7–2 to build protected bike lanes along one of the city's busiest corridors."
-url = "https://example.com/your-story-link-goes-here"
-image = "media/work/bike-lanes.jpg"
-date = "March 2026"
-category = "Journalism"
-outlet = "Berkeleyside"
+title = 
+description = 
+image = 
+date = 
+category = 
+outlet = 
 
-[[work]]
-title = "The wells are running dry: a Central Valley town confronts its future"
-description = "In Teviston, families have watched their taps sputter for years. Now a state grant promises relief — but the water table keeps falling faster than the money arrives."
-url = "https://example.com/your-story-link-goes-here"
-image = "media/work/drought.jpg"
-date = "January 2026"
-category = "Journalism"
-outlet = "The San Francisco Chronicle"
 
-[[work]]
-title = "As grocery prices climb, more Cal students turn to the campus food pantry"
-description = "Visits to the UC Berkeley Food Pantry have doubled in two years. Students, staff and volunteers describe the quiet logistics of keeping shelves stocked."
-url = "https://example.com/your-story-link-goes-here"
-image = "media/work/food-bank.jpg"
-date = "November 2025"
-category = "Journalism"
-outlet = "The Daily Californian"
 
 # This one has no image on purpose — the site still handles it gracefully.
 [[work]]
-title = "Opinion: Student journalism deserves a seat at the press table"
-description = "Student reporters cover city hall when no one else shows up. It's time public agencies treated them like the working press they are."
-url = "https://example.com/your-story-link-goes-here"
-date = "October 2025"
-category = "Journalism"
-outlet = "Richmond Confidential"
+title = 
+description = 
+url = 
+date = 
+category = 
+outlet = 
 
 # ── A photo essay stored right here on your site ────────────
 #
@@ -143,30 +126,32 @@ outlet = "Richmond Confidential"
 # slideshow. Write captions after the | symbol (optional).
 
 [[work]]
-title = "Saturday at the farmers market"
-description = "Scenes from a morning at the downtown farmers market, where vendors set up before sunrise and regulars arrive with the same canvas bags every week."
-date = "February 2026"
+title = "Photojournalism Assignment"
+description = "Photo assignment from UC Berkeley Journalism School."
+date = "September 2026"
 category = "Photojournalism"
 photos = [
-  "media/farmers-market/01-market-opening.jpg | Produce stands catch the first light as the market opens at 8 a.m.",
-  "media/farmers-market/02-vendor.jpg | Vendors greet the day's first customers — many by name.",
-  "media/farmers-market/03-vegetables.jpg | Winter vegetables, picked the afternoon before, fill the tables by dawn.",
-  "media/farmers-market/04-flowers.jpg | Flower buckets wait for the mid-morning rush.",
-  "media/farmers-market/05-fruit.jpg | By noon, the best of the citrus is already gone.",
+  "media/photo-assignment/repeating-pattern.jpg | Repeating Pattern",
+  "media/photo-assignment/perspective.jpg | Perspective",
+  "media/photo-assignment/rule-of-thirds.jpg | Rule of Thirds",
+  "media/photo-assignment/symmetry.jpg | Symmetry",
+  "media/photo-assignment/framing.jpg | Framing",   
+  "media/photo-assignment/foreground-background.jpg | Foreground-background",
+  "media/photo-assignment/portrait.jpg | Portrait",
+  "media/photo-assignment/moment.jpg | Moment",
 ]
-
 # ── An audio story stored on your site ──────────────────────
 #
 # Point "audio" at an mp3 file in your media folder. The photo
 # is optional. Clicking the work opens an audio player.
 
 [[work]]
-title = "One small step: the sound that stopped the world"
-description = "An audio postcard revisiting the most famous sentence ever spoken off-planet, and what it sounded like in living rooms in 1969."
-audio = "media/audio/one-small-step.mp3"
-image = "media/work/apollo.jpg"
-date = "December 2025"
-category = "Multimedia"
+title = 
+description = 
+audio = 
+image = 
+date = 
+category = 
 
 # ── A video hosted on YouTube or Vimeo ──────────────────────
 #
@@ -174,11 +159,11 @@ category = "Multimedia"
 # here. Clicking the work plays it in a pop-up.
 
 [[work]]
-title = "Video explainer: why we're going back to the Moon"
-description = "A short explainer on NASA's Artemis program, produced for my multimedia reporting class."
-video = "https://www.youtube.com/watch?v=vl6jn-DdafM"
-date = "September 2025"
-category = "Multimedia"
+title = 
+description = 
+video = 
+date = 
+category = 
 
 
 # ============================================================
