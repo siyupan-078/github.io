@@ -101,24 +101,12 @@ footer = ""
 
 # ── Published stories: give them a url and they link out ────
 
-[[work]]
-title = 
-description = 
-image = 
-date = 
-category = 
-outlet = 
+
 
 
 
 # This one has no image on purpose — the site still handles it gracefully.
-[[work]]
-title = 
-description = 
-url = 
-date = 
-category = 
-outlet = 
+
 
 # ── A photo essay stored right here on your site ────────────
 #
@@ -145,25 +133,12 @@ photos = [
 # Point "audio" at an mp3 file in your media folder. The photo
 # is optional. Clicking the work opens an audio player.
 
-[[work]]
-title = 
-description = 
-audio = 
-image = 
-date = 
-category = 
+
 
 # ── A video hosted on YouTube or Vimeo ──────────────────────
 #
 # Upload your video to YouTube or Vimeo, then paste its link
 # here. Clicking the work plays it in a pop-up.
-
-[[work]]
-title = 
-description = 
-video = 
-date = 
-category = 
 
 
 # ============================================================
