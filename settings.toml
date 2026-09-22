@@ -100,7 +100,14 @@ footer = ""
 # ============================================================
 
 # ── Published stories: give them a url and they link out ────
-
+[[work]]
+title = "The Intersection: A Reconstruction of 1948 Shanghai Cabaret Girl Riot"
+description = "What actually happened that day? Follow the story through the girls’ perspectives in 1940s Shanghai."
+url = "https://seeyoutmr.substack.com/p/the-intersection-a-reconstruction?r=6xf7iq&utm_campaign=post-expanded-share&utm_medium=web"
+image 
+date = "December 2025"
+category = "Reconstructive Journalism"
+outlet = "Substack"
 
 
 
