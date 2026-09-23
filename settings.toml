@@ -44,7 +44,7 @@ employer = "Emeryville Today"      # Where you work, intern, or freelance most
 #   "signal"     – huge bold headline, then a bright yellow band
 #   "harbor"     – deep teal with a portrait sidebar and serif type
 
-template = "editorial"
+template = "byline"
 
 # ── How people reach you ────────────────────────────────────
 
@@ -106,9 +106,16 @@ description = "What actually happened that day? Follow the story through the gir
 url = "https://seeyoutmr.substack.com/p/the-intersection-a-reconstruction?r=6xf7iq&utm_campaign=post-expanded-share&utm_medium=web"
 image = "The Crossroad.jpg"
 date = "December 2025"
-category = "Reconstructive Journalism"
+category = "Literary Journalism"
 outlet = "Substack"
 
+title = "Driving the Grey Zone"
+description = "In her mid-thirties, how did Lin moved from China to the U.S all by herself on a student visa?"
+url = "https://substack.com/home/post/p-217119072"
+image = "Lin.jpg"
+data = "Decmber 2024"
+category = "Literary Journalism"
+outlet = "Substack"
 
 
 
