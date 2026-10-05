@@ -100,6 +100,16 @@ footer = ""
 # ============================================================
 
 # ── Published stories: give them a url and they link out ────
+
+[[work]]
+title = "In retail-heavy Emeryville, shoplifting has declined. But can you believe the numbers?"
+description = "Emeryville Retail Theft is Down – Or is it?"
+url = "https://emeryvilletoday.com/2026/10/02/in-retail-heavy-emeryville-shoplifting-has-declined-but-can-you-believe-the-numbers/"
+image = "DSC01484.jpg"
+date = "Oct 2, 2026"
+category = "Reporting News"
+outlet = "Emeryville Today"
+
 [[work]]
 title = "The Intersection: A Reconstruction of 1948 Shanghai Cabaret Girl Riot"
 description = "What actually happened that day? Follow the story through the girls’ perspectives in 1940s Shanghai."
