@@ -102,6 +102,15 @@ footer = ""
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
+title = "City Council agrees to 3% raises for three years, other incentives for Police Department"
+description = "Emeryville Police Land Pay Hike Amid Budget Shortfall"
+url = "https://emeryvilletoday.com/2026/10/21/city-council-agrees-to-3-raises-for-three-years-other-incentives-for-police-department/"
+image = "Emeryville City Council.jpg"
+date = "Oct 21, 2026"
+category = "Reporting News"
+outlet = "Emeryville Today"
+
+[[work]]
 title = "In retail-heavy Emeryville, shoplifting has declined. But can you believe the numbers?"
 description = "Emeryville Retail Theft is Down – Or is it?"
 url = "https://emeryvilletoday.com/2026/10/02/in-retail-heavy-emeryville-shoplifting-has-declined-but-can-you-believe-the-numbers/"
