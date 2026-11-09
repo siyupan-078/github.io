@@ -111,6 +111,15 @@ category = "Reporting News"
 outlet = "Emeryville Today"
 
 [[work]]
+title = "Election Day coverage: Reporting all day from Oakland polls"
+description = "courthouse coverage"
+url = "https://oaklandnorth.net/2026/11/03/election-day-coverage-reporting-all-day-from-oakland-polls/"
+image = ""
+date = "Nov 3, 2026"
+category = "Reporting News"
+outlet = "Oakland North"
+
+[[work]]
 title = "City Council agrees to 3% raises for three years, other incentives for Police Department"
 description = "Emeryville Police Land Pay Hike Amid Budget Shortfall"
 url = "https://emeryvilletoday.com/2026/10/21/city-council-agrees-to-3-raises-for-three-years-other-incentives-for-police-department/"
