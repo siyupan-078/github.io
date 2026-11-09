@@ -102,6 +102,15 @@ footer = ""
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
+title = "Update: Election results counted Friday show clearer picture of council and school board races, Measure BB support"
+description = "election day coverage"
+url = "https://emeryvilletoday.com/2026/11/03/election-results-early-returns-are-in-with-many-votes-left-to-count/"
+image = "election day.png"
+date = "Nov 3, 2026"
+category = "Reporting News"
+outlet = "Emeryville Today"
+
+[[work]]
 title = "City Council agrees to 3% raises for three years, other incentives for Police Department"
 description = "Emeryville Police Land Pay Hike Amid Budget Shortfall"
 url = "https://emeryvilletoday.com/2026/10/21/city-council-agrees-to-3-raises-for-three-years-other-incentives-for-police-department/"
