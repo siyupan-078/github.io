@@ -65,7 +65,7 @@ socials = [
 # file's name here.
 
 banner_photo = "media/siyubanner.jpeg"   # A portrait or banner photo of you
-resume = "media/resume.pdf"         # A PDF of your resume (adds a Resume button)
+resume = "Resume_ Siyu Pan.pdf"         # A PDF of your resume (adds a Resume button)
 favicon = ""                        # Tiny browser-tab icon. Empty = made for you
 
 # ── About you ───────────────────────────────────────────────
